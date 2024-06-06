@@ -1,0 +1,38 @@
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.csproj.AssemblyReference.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\MainWindow.g.cs
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\App.g.cs
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork_MarkupCompile.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork_MarkupCompile.lref
+C:\Users\MrPushistik\source\repos\HammingNetwork\bin\Debug\HammingNetwork.exe.config
+C:\Users\MrPushistik\source\repos\HammingNetwork\bin\Debug\HammingNetwork.exe
+C:\Users\MrPushistik\source\repos\HammingNetwork\bin\Debug\HammingNetwork.pdb
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\MainWindow.baml
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.g.resources
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.Properties.Resources.resources
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.csproj.GenerateResource.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.csproj.CoreCompileInputs.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.exe
+C:\Users\MrPushistik\source\repos\HammingNetwork\obj\Debug\HammingNetwork.pdb
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.csproj.AssemblyReference.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\MainWindow.g.cs
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\App.g.cs
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork_MarkupCompile.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork_MarkupCompile.lref
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.exe
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.pdb
+C:\Users\MrPushistik\source\repos\HammingNetwork2\bin\Debug\HammingNetwork.exe.config
+C:\Users\MrPushistik\source\repos\HammingNetwork2\bin\Debug\HammingNetwork.exe
+C:\Users\MrPushistik\source\repos\HammingNetwork2\bin\Debug\HammingNetwork.pdb
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\MainWindow.baml
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.g.resources
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.Properties.Resources.resources
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.csproj.GenerateResource.cache
+C:\Users\MrPushistik\source\repos\HammingNetwork2\obj\Debug\HammingNetwork.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork.csproj.AssemblyReference.cache
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\App.g.cs
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork_MarkupCompile.cache
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork_MarkupCompile.lref
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork.exe
+D:\Рабочий стол\ИИ_Универ\Laba3\obj\Debug\HammingNetwork.pdb

@@ -1,0 +1,94 @@
+﻿<Window x:Class="HammingNetwork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HammingNetwork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Grid.Column="0">
+            <TextBlock FontSize="20">Сеть Хемминга</TextBlock>
+
+            <StackPanel>
+
+                <TextBlock>Настройки</TextBlock>
+                
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="100">Число эталонов</TextBlock>
+                    <TextBox Width="100" Name="K">30</TextBox>
+                </StackPanel>
+                
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Width="100">Число входов</TextBlock>
+                    <TextBox Width="100" Name="M">40</TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Width="100">E</TextBlock>
+                    <TextBox Width="100" Name="E">0,03</TextBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock  Width="100">Emin</TextBlock>
+                    <TextBox Width="100" Name="Emin">0,1</TextBox>
+                </StackPanel>
+
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock  Width="100">Эталоны</TextBlock>
+                <TextBox Width="300" Name="Path" TextChanged="Path_TextChanged">D:\Рабочий стол\ИИ_Универ\dataset.txt</TextBox>
+            </StackPanel>
+
+            <Button Click="Button_Click">Создать</Button>
+
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Width="100">Имя Эталона</TextBlock>
+                    <TextBox Width="300" Name="N">1</TextBox>
+                </StackPanel>
+
+                <Button Click="Button_Click_2">Выгрузить</Button>
+                                
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" BorderThickness="1" BorderBrush="Black">
+                            <StackPanel>
+                                <TextBox Name="What">Введенный образ</TextBox>
+                                <StackPanel Name="In">
+                                    <TextBox Name="Size"></TextBox>
+                                    <TextBox Name="People"></TextBox>
+                                    <TextBox Name="Type1"></TextBox>
+                                    <TextBox Name="Type2"></TextBox>
+                                    <TextBox Name="Place"></TextBox>
+                                    <TextBox Name="Urban"></TextBox>
+                                    <TextBox Name="IPD"></TextBox>
+                                    <TextBox Name="GDP"></TextBox>
+                            </StackPanel>
+                            </StackPanel>
+                        </Border>
+
+
+                    <Border Grid.Column="1" BorderThickness="1" BorderBrush="Black">
+
+                        <StackPanel>
+                            <TextBox>Распознанный образ</TextBox>
+                            <TextBlock Height="20"  Name="Out"></TextBlock>
+                        </StackPanel>
+                        
+                    </Border>
+                </Grid>
+
+                <Button Click="Button_Click_1">Протестировать</Button>
+
+
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
